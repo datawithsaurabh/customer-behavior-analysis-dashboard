@@ -44,7 +44,7 @@ This project demonstrates the complete analytics workflow including data cleanin
 
 ## 📊 Dashboard Preview
 
-![Dashboard](../Images/dashboard.png)
+![Dashboard](Customer%20Behaviour%20Project/Images/dashboard.png)
 
 ---
 
