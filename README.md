@@ -89,32 +89,32 @@ This project demonstrates the complete analytics workflow including data cleanin
 ## 📂 Project Structure
 
 ```text
-Customer-Behavior-Analysis/
-
-├── Dataset/
-│   └── customer_data.csv
-
-├── SQL/
-│   └── customer_behavior_analysis.sql
-
-├── Python/
-│   ├── data_cleaning.ipynb
-│   ├── eda.ipynb
-│   └── customer_analysis.py
-
-├── PowerBI/
-│   └── Customer_Behavior_Dashboard.pbix
-
-├── Images/
-│   ├── dashboard.png
-│   └── dashboard_demo.gif
+customer-behavior-analysis-dashboard/
 
 ├── README.md
 
-└── requirements.txt
+└── Customer Behaviour Project/
+    ├── Dataset/
+    │   └── customer_data.csv
+    │
+    ├── SQL/
+    │   └── customer_behavior_analysis.sql
+    │
+    ├── Python/
+    │   ├── data_cleaning.ipynb
+    │   ├── eda.ipynb
+    │   └── customer_analysis.py
+    │
+    ├── PowerBI/
+    │   └── Customer_Behavior_Dashboard.pbix
+    │
+    ├── Images/
+    │   ├── dashboard.png
+    │   └── dashboard_demo.gif
+    │
+    └── requirements.txt
 ```
 
----
 
 ## 💼 Skills Demonstrated
 
@@ -150,7 +150,7 @@ B.Tech Computer Science & Engineering (2022–2026)
 
 **Skills:** SQL | Python | Power BI | Excel | Data Analysis | Data Visualization
 
-🔗 LinkedIn: www.linkedin.com/in/saurabh-shivkriti
+🔗 LinkedIn: https://www.linkedin.com/in/saurabh-shivkriti
 
 🌐 Portfolio: saurabhshivkriti.in
 
